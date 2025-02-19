@@ -59,7 +59,4 @@ pip install opencv-python
 - Support for different image formats.
 - Improve security by hashing and encrypting the passcode.
 
-## License
-This project is open-source and available for modification and distribution.
 
-Happy coding!
